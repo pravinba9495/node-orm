@@ -1,6 +1,6 @@
 {
   "name": "node-orm",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Minimalistic Object Relational Mapper (ORM) for Node.js",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/pravinba9495/node-orm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Praveen Ravichandran <me@pravinba9495.dev>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pravinba9495/node-orm/issues"
   },
